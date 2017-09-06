@@ -1,0 +1,2 @@
+# LichtSchranke
+Licht Schranken app
